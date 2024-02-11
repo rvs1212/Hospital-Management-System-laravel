@@ -8,7 +8,7 @@
 
   <meta name="copyright" content="MACode ID, https://macodeid.com/">
 
-  <title>Online Health - Medical</title>
+  <title>ABC Health - Medical</title>
 
   <link rel="stylesheet" href="../assets/css/maicons.css">
 
