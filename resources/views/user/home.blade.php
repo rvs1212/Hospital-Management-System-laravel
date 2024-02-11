@@ -50,7 +50,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
       <div class="container">
-        <a class="navbar-brand" href="{{url('/')}}"><span class="text-primary">Online</span>-Health</a>
+        <a class="navbar-brand" href="{{url('/')}}"><span class="text-primary">ABC</span>-General Hospital</a>
 
         <form action="#">
           <div class="input-group input-navbar">
@@ -151,7 +151,7 @@
               <div class="circle-shape bg-primary text-white">
                 <span class="mai-shield-checkmark"></span>
               </div>
-              <p><span>One</span>-Health Protection</p>
+              <p><span>ABC</span>-Health Protection</p>
             </div>
           </div>
           <div class="col-md-4 py-3 py-md-0">
@@ -159,7 +159,7 @@
               <div class="circle-shape bg-accent text-white">
                 <span class="mai-basket"></span>
               </div>
-              <p><span>One</span>-Health Pharmacy</p>
+              <p><span>ABC</span>-Health Pharmacy</p>
             </div>
           </div>
         </div>
@@ -171,7 +171,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6 py-3 wow fadeInUp">
             <h1>Welcome to Your Health <br> Center</h1>
-            <p class="text-grey mb-4">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Accusantium aperiam earum ipsa eius, inventore nemo labore eaque porro consequatur ex aspernatur. Explicabo, excepturi accusantium! Placeat voluptates esse ut optio facilis!</p>
+            <p class="text-grey mb-4">ABC General Hospital is committed to delivering exceptional healthcare services with a focus on patient well-being and satisfaction. Our dedicated team of skilled healthcare professionals strives to provide compassionate and personalized care to every individual who walks through our doors. We prioritize the health and comfort of our patients, ensuring a supportive and healing environment. From state-of-the-art medical facilities to a warm and welcoming atmosphere, ABC General Hospital is dedicated to maintaining the highest standards of medical excellence. Our commitment extends beyond medical treatment; we aim to create a holistic healing experience for our patients and their families. At ABC General Hospital, we are not just healthcare providers; we are partners in your journey to wellness, dedicated to offering unparalleled care with a compassionate touch.</p>
             <a href="about.html" class="btn btn-primary">Learn More</a>
           </div>
           <div class="col-lg-6 wow fadeInRight" data-wow-delay="400ms">
@@ -197,7 +197,7 @@
     <div class="container">
       <div class="row px-md-3">
         <div class="col-sm-6 col-lg-3 py-3">
-          <h5>Company</h5>
+          <h5>Management</h5>
           <ul class="footer-menu">
             <li><a href="#">About Us</a></li>
             <li><a href="#">Career</a></li>
@@ -224,9 +224,9 @@
         </div>
         <div class="col-sm-6 col-lg-3 py-3">
           <h5>Contact</h5>
-          <p class="footer-link mt-2">sylhet,bangladesh</p>
-          <a href="#" class="footer-link">+8801688238801</a>
-          <a href="#" class="footer-link">wincoder9@gmail.com</a>
+          <p class="footer-link mt-2">ABC General Hospital <p>
+          <a href="#" class="footer-link">+1 100 200 3000</a>
+          <a href="#" class="footer-link">contactABCgen@abchealth.com</a>
 
           <h5 class="mt-3">Social Media</h5>
           <div class="footer-sosmed mt-3">
@@ -241,7 +241,7 @@
 
       <hr>
 
-      <p id="copyright">Copyright &copy; 2023 <a href="https://macodeid.com/" target="_blank">Win Coder</a>. All right reserved</p>
+      <p id="copyright">Copyright &copy; 2024 <a href="https://macodeid.com/" target="_blank">ABC General Hospital</a>. All right reserved</p>
     </div>
   </footer>
 
