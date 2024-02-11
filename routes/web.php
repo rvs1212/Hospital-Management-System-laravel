@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\http\Controllers\HomeController;
 use App\http\Controllers\AdminController;
+use Illuminate\Support\Facades\Artisan;
 
 /*
 |--------------------------------------------------------------------------
@@ -49,3 +50,8 @@ Route::get('/updatedoctor/{id}',[AdminController::class,'updatedoctor']);
 Route::post('/editdoctor/{id}',[AdminController::class,'editdoctor']);
 Route::get('/emailview/{id}',[AdminController::class,'emailview']);
 Route::post('/sendemail/{id}',[AdminController::class,'sendemail']);
+
+Route::get('/run-migration', function(){
+    Artisan::call('optimize:clear');
+    Artisan::call('migrate');
+});
