@@ -16,6 +16,7 @@
           <div class="col-12 col-sm-6 py-2 wow fadeInLeft" data-wow-delay="300ms">
             <input type="date" name="date" class="form-control">
           </div>
+          
           <div class="col-12 col-sm-6 py-2 wow fadeInLeft" data-wow-delay="300ms">
             <input type="time" name="date" class="form-control">
           </div>
